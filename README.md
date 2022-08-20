@@ -1,6 +1,6 @@
 # Servlet - Study Project
 ## Servlet 생성 및 적용
-## Servelet 기본
+## Servlet 기본
 - HttpServletRequest
   - HTTP 요청 데이터 - GET 쿼리 파라미터
   - HTTP 요청 데이터 - POST HTML Form
